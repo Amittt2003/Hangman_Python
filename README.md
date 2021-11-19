@@ -1,2 +1,4 @@
 # Hangman_Python
-Hangman game in python.
+The project is written in python.
+
+The project is the game: "Hangman".
